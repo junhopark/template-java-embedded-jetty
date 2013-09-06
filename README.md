@@ -30,3 +30,7 @@ I'm currently using IntelliJ IDEA 11 (Ultimate Edition).  To make this work with
 * While you're still in Project Structure, select Artifacts > set the 'Output directory' to: [PROJECT ROOT]/target/embedded-jetty-template-1.0-SNAPSHOT > Check 'Build on make' > Click OK.
 * Open Main.java > Right-click > Select Run 'Main.main()' or Debug 'Main.main()'.
 * Open your browser and go to: http://localhost:8080
+
+## See it live
+
+http://embedded-jetty-template.herokuapp.com
