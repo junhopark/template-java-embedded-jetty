@@ -3,3 +3,8 @@
 .settings
 .springBeans
 target
+
+.idea
+*.iml
+
+src/main/webapp/styles/.sass-cache
